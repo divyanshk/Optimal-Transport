@@ -13,6 +13,7 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [Sinkhorn Distances: Lightspeed computation](https://arxiv.org/pdf/1306.0895.pdf)
 * [Improving GANs using Optimal Transport](https://arxiv.org/abs/1803.05573)
 * [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)
+* [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
 
 ## Code
 * [Python Optimal Transport Library](https://github.com/rflamary/POT)
