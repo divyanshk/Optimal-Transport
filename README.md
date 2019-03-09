@@ -3,7 +3,7 @@ The repo holds the reference materials (in no particulaar order) and code for re
 
 ## OT Introduction/Blogs
 * [Optimal transport for machine learning](https://remi.flamary.com/pres/OTML_ISIS_2017.pdf) Remi Flamary
-* [Optimal Transport and Machine Learning](https://nips.cc/Conferences/2017/Schedule?showEvent=8758) NeuraIPS 17
+* [Optimal Transport and Machine Learning](https://nips.cc/Conferences/2017/Schedule?showEvent=8758) NeuraIPS 17 [with paper links](http://otml17.marcocuturi.net/schedule/) 
 * [Calculating transport plans with Sinkhorn-Knopp](https://regularize.wordpress.com/2015/09/17/calculating-transport-plans-with-sinkhorn-knopp/) Blog
 * [Notes on optimal transport](https://michielstock.github.io/OptimalTransport/) Blog
 
