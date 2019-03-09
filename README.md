@@ -15,6 +15,11 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)
 * [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/abs/1705.08848)
 * [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
+* [Improving Sequence-To-Sequence Learning Via Optimal Transport](https://arxiv.org/abs/1901.06283)
+* [{Euclidean, Metric, and Wasserstein } Gradient Flows: an overview](https://arxiv.org/abs/1609.03890)
+* [Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport](https://arxiv.org/abs/1805.09545)
+* [Policy Optimization as Wasserstein Gradient Flows](https://arxiv.org/abs/1808.03030)
 
 ## Code
 * [Python Optimal Transport Library](https://github.com/rflamary/POT)
+* [JDOT](https://github.com/rflamary/JDOT)
