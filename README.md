@@ -19,6 +19,7 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [{Euclidean, Metric, and Wasserstein } Gradient Flows: an overview](https://arxiv.org/abs/1609.03890)
 * [Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport](https://arxiv.org/abs/1805.09545)
 * [Policy Optimization as Wasserstein Gradient Flows](https://arxiv.org/abs/1808.03030)
+* [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf)
 
 ## Code
 * [Python Optimal Transport Library](https://github.com/rflamary/POT)
