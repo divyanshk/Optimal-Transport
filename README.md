@@ -8,7 +8,7 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [Notes on optimal transport](https://michielstock.github.io/OptimalTransport/) Blog
 
 ## Papers
-* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+* [Wasserstein GAN](https://arxiv.org/abs/1701.07875) 
 * [Learning Generative Models with Sinkhorn Divergences](http://proceedings.mlr.press/v84/genevay18a/genevay18a.pdf) Final week DGM paper
 * [Sinkhorn Distances: Lightspeed computation](https://arxiv.org/pdf/1306.0895.pdf)
 * [Improving GANs using Optimal Transport](https://arxiv.org/abs/1803.05573)
@@ -20,6 +20,8 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport](https://arxiv.org/abs/1805.09545)
 * [Policy Optimization as Wasserstein Gradient Flows](https://arxiv.org/abs/1808.03030)
 * [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf)
+* [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/pdf/1710.05488.pdf)
+* [A Fast Proximal Point Method for Computing Wasserstein Distance](https://arxiv.org/abs/1802.04307)
 
 ## Code
 * [Python Optimal Transport Library](https://github.com/rflamary/POT)
