@@ -12,8 +12,8 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [Learning Generative Models with Sinkhorn Divergences](http://proceedings.mlr.press/v84/genevay18a/genevay18a.pdf) Final week DGM paper
 * [Sinkhorn Distances: Lightspeed computation](https://arxiv.org/pdf/1306.0895.pdf)
 * [Improving GANs using Optimal Transport](https://arxiv.org/abs/1803.05573)
-* [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)
-* [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/abs/1705.08848)
+* [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504) DA
+* [Joint distribution optimal transportation for domain adaptation](https://arxiv.org/abs/1705.08848) DA
 * [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
 * [Improving Sequence-To-Sequence Learning Via Optimal Transport](https://arxiv.org/abs/1901.06283)
 * [{Euclidean, Metric, and Wasserstein } Gradient Flows: an overview](https://arxiv.org/abs/1609.03890)
@@ -22,6 +22,7 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf)
 * [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/pdf/1710.05488.pdf)
 * [A Fast Proximal Point Method for Computing Wasserstein Distance](https://arxiv.org/abs/1802.04307)
+* [Large-Scale Optimal Transport and Mapping Estimation](https://arxiv.org/pdf/1711.02283.pdf) DA
 
 ## Code
 * [Python Optimal Transport Library](https://github.com/rflamary/POT)
