@@ -23,6 +23,7 @@ The repo holds the reference materials (in no particulaar order) and code for re
 * [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/pdf/1710.05488.pdf)
 * [A Fast Proximal Point Method for Computing Wasserstein Distance](https://arxiv.org/abs/1802.04307)
 * [Large-Scale Optimal Transport and Mapping Estimation](https://arxiv.org/pdf/1711.02283.pdf) DA
+* [Wasserstein Auto-Encoders](https://openreview.net/pdf?id=HkL7n1-0b) W-AE
 
 ## Code
 * [Python Optimal Transport Library](https://github.com/rflamary/POT)
